@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marius-Pontmercy
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning GiiHub
+- 🌱 I’m currently learning GitHub
 
 
 <!---
